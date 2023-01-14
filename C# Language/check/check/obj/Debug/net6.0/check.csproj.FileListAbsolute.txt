@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\check\check\bin\Debug\net6.0\check.exe
+C:\Users\Dell\source\repos\check\check\bin\Debug\net6.0\check.deps.json
+C:\Users\Dell\source\repos\check\check\bin\Debug\net6.0\check.runtimeconfig.json
+C:\Users\Dell\source\repos\check\check\bin\Debug\net6.0\check.dll
+C:\Users\Dell\source\repos\check\check\bin\Debug\net6.0\check.pdb
+C:\Users\Dell\source\repos\check\check\obj\Debug\net6.0\check.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\check\check\obj\Debug\net6.0\check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\check\check\obj\Debug\net6.0\check.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\check\check\obj\Debug\net6.0\check.AssemblyInfo.cs
+C:\Users\Dell\source\repos\check\check\obj\Debug\net6.0\check.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\check\check\obj\Debug\net6.0\check.dll
+C:\Users\Dell\source\repos\check\check\obj\Debug\net6.0\refint\check.dll
+C:\Users\Dell\source\repos\check\check\obj\Debug\net6.0\check.pdb
+C:\Users\Dell\source\repos\check\check\obj\Debug\net6.0\check.genruntimeconfig.cache
+C:\Users\Dell\source\repos\check\check\obj\Debug\net6.0\ref\check.dll

@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\practice_interface\practice_interface\bin\Debug\net6.0\practice_interface.exe
+C:\Users\Dell\source\repos\practice_interface\practice_interface\bin\Debug\net6.0\practice_interface.deps.json
+C:\Users\Dell\source\repos\practice_interface\practice_interface\bin\Debug\net6.0\practice_interface.runtimeconfig.json
+C:\Users\Dell\source\repos\practice_interface\practice_interface\bin\Debug\net6.0\practice_interface.dll
+C:\Users\Dell\source\repos\practice_interface\practice_interface\bin\Debug\net6.0\practice_interface.pdb
+C:\Users\Dell\source\repos\practice_interface\practice_interface\obj\Debug\net6.0\practice_interface.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\practice_interface\practice_interface\obj\Debug\net6.0\practice_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\practice_interface\practice_interface\obj\Debug\net6.0\practice_interface.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\practice_interface\practice_interface\obj\Debug\net6.0\practice_interface.AssemblyInfo.cs
+C:\Users\Dell\source\repos\practice_interface\practice_interface\obj\Debug\net6.0\practice_interface.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\practice_interface\practice_interface\obj\Debug\net6.0\practice_interface.dll
+C:\Users\Dell\source\repos\practice_interface\practice_interface\obj\Debug\net6.0\refint\practice_interface.dll
+C:\Users\Dell\source\repos\practice_interface\practice_interface\obj\Debug\net6.0\practice_interface.pdb
+C:\Users\Dell\source\repos\practice_interface\practice_interface\obj\Debug\net6.0\practice_interface.genruntimeconfig.cache
+C:\Users\Dell\source\repos\practice_interface\practice_interface\obj\Debug\net6.0\ref\practice_interface.dll

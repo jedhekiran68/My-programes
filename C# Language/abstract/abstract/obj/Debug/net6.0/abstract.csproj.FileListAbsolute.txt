@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\abstract\abstract\bin\Debug\net6.0\abstract.exe
+C:\Users\Dell\source\repos\abstract\abstract\bin\Debug\net6.0\abstract.deps.json
+C:\Users\Dell\source\repos\abstract\abstract\bin\Debug\net6.0\abstract.runtimeconfig.json
+C:\Users\Dell\source\repos\abstract\abstract\bin\Debug\net6.0\abstract.dll
+C:\Users\Dell\source\repos\abstract\abstract\bin\Debug\net6.0\abstract.pdb
+C:\Users\Dell\source\repos\abstract\abstract\obj\Debug\net6.0\abstract.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\abstract\abstract\obj\Debug\net6.0\abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\abstract\abstract\obj\Debug\net6.0\abstract.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\abstract\abstract\obj\Debug\net6.0\abstract.AssemblyInfo.cs
+C:\Users\Dell\source\repos\abstract\abstract\obj\Debug\net6.0\abstract.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\abstract\abstract\obj\Debug\net6.0\abstract.dll
+C:\Users\Dell\source\repos\abstract\abstract\obj\Debug\net6.0\refint\abstract.dll
+C:\Users\Dell\source\repos\abstract\abstract\obj\Debug\net6.0\abstract.pdb
+C:\Users\Dell\source\repos\abstract\abstract\obj\Debug\net6.0\abstract.genruntimeconfig.cache
+C:\Users\Dell\source\repos\abstract\abstract\obj\Debug\net6.0\ref\abstract.dll

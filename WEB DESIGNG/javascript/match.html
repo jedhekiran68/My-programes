@@ -1,0 +1,34 @@
+ <html>
+<head>
+<title> Dom_task</title>
+
+</head>
+<body>
+
+<form >
+ <input type="text" placeholder="password ." pattern="{A-Za-z0-9@-.&#}{8}"  required id="jk1">
+	<input type="text" placeholder="confirm password ." pattern="{A-Za-z0-9@-.&#}{8}"  required id="jk2"><br><br>
+
+	
+	<button type="submit" onclick="info()">submit</button>
+
+<script>
+function info()
+{
+var p=document.getElementById("jk1").value;
+var c=document.getElementById("jk2").value;
+
+if(p==c)
+{
+alert("password matched")
+}
+else
+{
+alert("password not matched")
+}
+}
+
+</form>
+
+</body>
+</html>

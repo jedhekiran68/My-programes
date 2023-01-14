@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ConsoleApp14.exe
+C:\Users\Dell\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ConsoleApp14.deps.json
+C:\Users\Dell\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ConsoleApp14.runtimeconfig.json
+C:\Users\Dell\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ConsoleApp14.dll
+C:\Users\Dell\source\repos\ConsoleApp14\ConsoleApp14\bin\Debug\net6.0\ConsoleApp14.pdb
+C:\Users\Dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.dll
+C:\Users\Dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\refint\ConsoleApp14.dll
+C:\Users\Dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.pdb
+C:\Users\Dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ConsoleApp14.genruntimeconfig.cache
+C:\Users\Dell\source\repos\ConsoleApp14\ConsoleApp14\obj\Debug\net6.0\ref\ConsoleApp14.dll

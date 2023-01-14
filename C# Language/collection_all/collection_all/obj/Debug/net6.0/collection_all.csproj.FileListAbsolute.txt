@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\collection_all\collection_all\bin\Debug\net6.0\collection_all.exe
+C:\Users\Dell\source\repos\collection_all\collection_all\bin\Debug\net6.0\collection_all.deps.json
+C:\Users\Dell\source\repos\collection_all\collection_all\bin\Debug\net6.0\collection_all.runtimeconfig.json
+C:\Users\Dell\source\repos\collection_all\collection_all\bin\Debug\net6.0\collection_all.dll
+C:\Users\Dell\source\repos\collection_all\collection_all\bin\Debug\net6.0\collection_all.pdb
+C:\Users\Dell\source\repos\collection_all\collection_all\obj\Debug\net6.0\collection_all.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\collection_all\collection_all\obj\Debug\net6.0\collection_all.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\collection_all\collection_all\obj\Debug\net6.0\collection_all.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\collection_all\collection_all\obj\Debug\net6.0\collection_all.AssemblyInfo.cs
+C:\Users\Dell\source\repos\collection_all\collection_all\obj\Debug\net6.0\collection_all.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\collection_all\collection_all\obj\Debug\net6.0\collection_all.dll
+C:\Users\Dell\source\repos\collection_all\collection_all\obj\Debug\net6.0\refint\collection_all.dll
+C:\Users\Dell\source\repos\collection_all\collection_all\obj\Debug\net6.0\collection_all.pdb
+C:\Users\Dell\source\repos\collection_all\collection_all\obj\Debug\net6.0\collection_all.genruntimeconfig.cache
+C:\Users\Dell\source\repos\collection_all\collection_all\obj\Debug\net6.0\ref\collection_all.dll

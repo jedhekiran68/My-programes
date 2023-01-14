@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\exception handling\exception handling\obj\Debug\net6.0\exception handling.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\exception handling\exception handling\obj\Debug\net6.0\exception handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\exception handling\exception handling\obj\Debug\net6.0\exception handling.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\exception handling\exception handling\obj\Debug\net6.0\exception handling.AssemblyInfo.cs
+C:\Users\Dell\source\repos\exception handling\exception handling\obj\Debug\net6.0\exception handling.csproj.CoreCompileInputs.cache

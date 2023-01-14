@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\practice_class_obj\practice_class_obj\bin\Debug\net6.0\practice_class_obj.exe
+C:\Users\Dell\source\repos\practice_class_obj\practice_class_obj\bin\Debug\net6.0\practice_class_obj.deps.json
+C:\Users\Dell\source\repos\practice_class_obj\practice_class_obj\bin\Debug\net6.0\practice_class_obj.runtimeconfig.json
+C:\Users\Dell\source\repos\practice_class_obj\practice_class_obj\bin\Debug\net6.0\practice_class_obj.dll
+C:\Users\Dell\source\repos\practice_class_obj\practice_class_obj\bin\Debug\net6.0\practice_class_obj.pdb
+C:\Users\Dell\source\repos\practice_class_obj\practice_class_obj\obj\Debug\net6.0\practice_class_obj.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\practice_class_obj\practice_class_obj\obj\Debug\net6.0\practice_class_obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\practice_class_obj\practice_class_obj\obj\Debug\net6.0\practice_class_obj.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\practice_class_obj\practice_class_obj\obj\Debug\net6.0\practice_class_obj.AssemblyInfo.cs
+C:\Users\Dell\source\repos\practice_class_obj\practice_class_obj\obj\Debug\net6.0\practice_class_obj.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\practice_class_obj\practice_class_obj\obj\Debug\net6.0\practice_class_obj.dll
+C:\Users\Dell\source\repos\practice_class_obj\practice_class_obj\obj\Debug\net6.0\refint\practice_class_obj.dll
+C:\Users\Dell\source\repos\practice_class_obj\practice_class_obj\obj\Debug\net6.0\practice_class_obj.pdb
+C:\Users\Dell\source\repos\practice_class_obj\practice_class_obj\obj\Debug\net6.0\practice_class_obj.genruntimeconfig.cache
+C:\Users\Dell\source\repos\practice_class_obj\practice_class_obj\obj\Debug\net6.0\ref\practice_class_obj.dll

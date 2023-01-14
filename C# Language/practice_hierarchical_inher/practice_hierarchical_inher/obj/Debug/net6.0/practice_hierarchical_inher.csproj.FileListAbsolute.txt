@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\practice_hierarchical_inher\practice_hierarchical_inher\bin\Debug\net6.0\practice_hierarchical_inher.exe
+C:\Users\Dell\source\repos\practice_hierarchical_inher\practice_hierarchical_inher\bin\Debug\net6.0\practice_hierarchical_inher.deps.json
+C:\Users\Dell\source\repos\practice_hierarchical_inher\practice_hierarchical_inher\bin\Debug\net6.0\practice_hierarchical_inher.runtimeconfig.json
+C:\Users\Dell\source\repos\practice_hierarchical_inher\practice_hierarchical_inher\bin\Debug\net6.0\practice_hierarchical_inher.dll
+C:\Users\Dell\source\repos\practice_hierarchical_inher\practice_hierarchical_inher\bin\Debug\net6.0\practice_hierarchical_inher.pdb
+C:\Users\Dell\source\repos\practice_hierarchical_inher\practice_hierarchical_inher\obj\Debug\net6.0\practice_hierarchical_inher.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\practice_hierarchical_inher\practice_hierarchical_inher\obj\Debug\net6.0\practice_hierarchical_inher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\practice_hierarchical_inher\practice_hierarchical_inher\obj\Debug\net6.0\practice_hierarchical_inher.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\practice_hierarchical_inher\practice_hierarchical_inher\obj\Debug\net6.0\practice_hierarchical_inher.AssemblyInfo.cs
+C:\Users\Dell\source\repos\practice_hierarchical_inher\practice_hierarchical_inher\obj\Debug\net6.0\practice_hierarchical_inher.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\practice_hierarchical_inher\practice_hierarchical_inher\obj\Debug\net6.0\practice_hierarchical_inher.dll
+C:\Users\Dell\source\repos\practice_hierarchical_inher\practice_hierarchical_inher\obj\Debug\net6.0\refint\practice_hierarchical_inher.dll
+C:\Users\Dell\source\repos\practice_hierarchical_inher\practice_hierarchical_inher\obj\Debug\net6.0\practice_hierarchical_inher.pdb
+C:\Users\Dell\source\repos\practice_hierarchical_inher\practice_hierarchical_inher\obj\Debug\net6.0\practice_hierarchical_inher.genruntimeconfig.cache
+C:\Users\Dell\source\repos\practice_hierarchical_inher\practice_hierarchical_inher\obj\Debug\net6.0\ref\practice_hierarchical_inher.dll

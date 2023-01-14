@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\2D_array\2D_array\bin\Debug\net6.0\2D_array.exe
+C:\Users\Dell\source\repos\2D_array\2D_array\bin\Debug\net6.0\2D_array.deps.json
+C:\Users\Dell\source\repos\2D_array\2D_array\bin\Debug\net6.0\2D_array.runtimeconfig.json
+C:\Users\Dell\source\repos\2D_array\2D_array\bin\Debug\net6.0\2D_array.dll
+C:\Users\Dell\source\repos\2D_array\2D_array\bin\Debug\net6.0\2D_array.pdb
+C:\Users\Dell\source\repos\2D_array\2D_array\obj\Debug\net6.0\2D_array.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\2D_array\2D_array\obj\Debug\net6.0\2D_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\2D_array\2D_array\obj\Debug\net6.0\2D_array.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\2D_array\2D_array\obj\Debug\net6.0\2D_array.AssemblyInfo.cs
+C:\Users\Dell\source\repos\2D_array\2D_array\obj\Debug\net6.0\2D_array.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\2D_array\2D_array\obj\Debug\net6.0\2D_array.dll
+C:\Users\Dell\source\repos\2D_array\2D_array\obj\Debug\net6.0\refint\2D_array.dll
+C:\Users\Dell\source\repos\2D_array\2D_array\obj\Debug\net6.0\2D_array.pdb
+C:\Users\Dell\source\repos\2D_array\2D_array\obj\Debug\net6.0\2D_array.genruntimeconfig.cache
+C:\Users\Dell\source\repos\2D_array\2D_array\obj\Debug\net6.0\ref\2D_array.dll

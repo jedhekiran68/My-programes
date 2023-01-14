@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\add.5.no\add.5.no\bin\Debug\net6.0\add.5.no.exe
+C:\Users\Dell\source\repos\add.5.no\add.5.no\bin\Debug\net6.0\add.5.no.deps.json
+C:\Users\Dell\source\repos\add.5.no\add.5.no\bin\Debug\net6.0\add.5.no.runtimeconfig.json
+C:\Users\Dell\source\repos\add.5.no\add.5.no\bin\Debug\net6.0\add.5.no.dll
+C:\Users\Dell\source\repos\add.5.no\add.5.no\bin\Debug\net6.0\add.5.no.pdb
+C:\Users\Dell\source\repos\add.5.no\add.5.no\obj\Debug\net6.0\add.5.no.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\add.5.no\add.5.no\obj\Debug\net6.0\add.5.no.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\add.5.no\add.5.no\obj\Debug\net6.0\add.5.no.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\add.5.no\add.5.no\obj\Debug\net6.0\add.5.no.AssemblyInfo.cs
+C:\Users\Dell\source\repos\add.5.no\add.5.no\obj\Debug\net6.0\add.5.no.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\add.5.no\add.5.no\obj\Debug\net6.0\add.5.no.dll
+C:\Users\Dell\source\repos\add.5.no\add.5.no\obj\Debug\net6.0\refint\add.5.no.dll
+C:\Users\Dell\source\repos\add.5.no\add.5.no\obj\Debug\net6.0\add.5.no.pdb
+C:\Users\Dell\source\repos\add.5.no\add.5.no\obj\Debug\net6.0\add.5.no.genruntimeconfig.cache
+C:\Users\Dell\source\repos\add.5.no\add.5.no\obj\Debug\net6.0\ref\add.5.no.dll

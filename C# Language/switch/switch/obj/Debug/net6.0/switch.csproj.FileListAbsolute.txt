@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\switch\switch\obj\Debug\net6.0\switch.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\switch\switch\obj\Debug\net6.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\switch\switch\obj\Debug\net6.0\switch.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\switch\switch\obj\Debug\net6.0\switch.AssemblyInfo.cs
+C:\Users\Dell\source\repos\switch\switch\obj\Debug\net6.0\switch.csproj.CoreCompileInputs.cache

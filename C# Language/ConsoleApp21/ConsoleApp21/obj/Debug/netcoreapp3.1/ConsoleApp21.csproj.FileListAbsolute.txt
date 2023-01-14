@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.exe
+C:\Users\Dell\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.deps.json
+C:\Users\Dell\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.runtimeconfig.json
+C:\Users\Dell\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.dll
+C:\Users\Dell\source\repos\ConsoleApp21\ConsoleApp21\bin\Debug\netcoreapp3.1\ConsoleApp21.pdb
+C:\Users\Dell\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.dll
+C:\Users\Dell\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.pdb
+C:\Users\Dell\source\repos\ConsoleApp21\ConsoleApp21\obj\Debug\netcoreapp3.1\ConsoleApp21.genruntimeconfig.cache

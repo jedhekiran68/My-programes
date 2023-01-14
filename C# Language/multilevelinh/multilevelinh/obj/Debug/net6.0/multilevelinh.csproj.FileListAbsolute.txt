@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\multilevelinh\multilevelinh\obj\Debug\net6.0\multilevelinh.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\multilevelinh\multilevelinh\obj\Debug\net6.0\multilevelinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\multilevelinh\multilevelinh\obj\Debug\net6.0\multilevelinh.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\multilevelinh\multilevelinh\obj\Debug\net6.0\multilevelinh.AssemblyInfo.cs
+C:\Users\Dell\source\repos\multilevelinh\multilevelinh\obj\Debug\net6.0\multilevelinh.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\switchorcase\switchorcase\obj\Debug\net6.0\switchorcase.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\switchorcase\switchorcase\obj\Debug\net6.0\switchorcase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\switchorcase\switchorcase\obj\Debug\net6.0\switchorcase.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\switchorcase\switchorcase\obj\Debug\net6.0\switchorcase.AssemblyInfo.cs
+C:\Users\Dell\source\repos\switchorcase\switchorcase\obj\Debug\net6.0\switchorcase.csproj.CoreCompileInputs.cache

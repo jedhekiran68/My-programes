@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\call_by_ref\call_by_ref\bin\Debug\net6.0\call_by_ref.exe
+C:\Users\Dell\source\repos\call_by_ref\call_by_ref\bin\Debug\net6.0\call_by_ref.deps.json
+C:\Users\Dell\source\repos\call_by_ref\call_by_ref\bin\Debug\net6.0\call_by_ref.runtimeconfig.json
+C:\Users\Dell\source\repos\call_by_ref\call_by_ref\bin\Debug\net6.0\call_by_ref.dll
+C:\Users\Dell\source\repos\call_by_ref\call_by_ref\bin\Debug\net6.0\call_by_ref.pdb
+C:\Users\Dell\source\repos\call_by_ref\call_by_ref\obj\Debug\net6.0\call_by_ref.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\call_by_ref\call_by_ref\obj\Debug\net6.0\call_by_ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\call_by_ref\call_by_ref\obj\Debug\net6.0\call_by_ref.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\call_by_ref\call_by_ref\obj\Debug\net6.0\call_by_ref.AssemblyInfo.cs
+C:\Users\Dell\source\repos\call_by_ref\call_by_ref\obj\Debug\net6.0\call_by_ref.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\call_by_ref\call_by_ref\obj\Debug\net6.0\call_by_ref.dll
+C:\Users\Dell\source\repos\call_by_ref\call_by_ref\obj\Debug\net6.0\refint\call_by_ref.dll
+C:\Users\Dell\source\repos\call_by_ref\call_by_ref\obj\Debug\net6.0\call_by_ref.pdb
+C:\Users\Dell\source\repos\call_by_ref\call_by_ref\obj\Debug\net6.0\call_by_ref.genruntimeconfig.cache
+C:\Users\Dell\source\repos\call_by_ref\call_by_ref\obj\Debug\net6.0\ref\call_by_ref.dll

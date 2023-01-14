@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\devision\devision\bin\Debug\net6.0\devision.exe
+C:\Users\Dell\source\repos\devision\devision\bin\Debug\net6.0\devision.deps.json
+C:\Users\Dell\source\repos\devision\devision\bin\Debug\net6.0\devision.runtimeconfig.json
+C:\Users\Dell\source\repos\devision\devision\bin\Debug\net6.0\devision.dll
+C:\Users\Dell\source\repos\devision\devision\bin\Debug\net6.0\devision.pdb
+C:\Users\Dell\source\repos\devision\devision\obj\Debug\net6.0\devision.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\devision\devision\obj\Debug\net6.0\devision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\devision\devision\obj\Debug\net6.0\devision.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\devision\devision\obj\Debug\net6.0\devision.AssemblyInfo.cs
+C:\Users\Dell\source\repos\devision\devision\obj\Debug\net6.0\devision.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\devision\devision\obj\Debug\net6.0\devision.dll
+C:\Users\Dell\source\repos\devision\devision\obj\Debug\net6.0\refint\devision.dll
+C:\Users\Dell\source\repos\devision\devision\obj\Debug\net6.0\devision.pdb
+C:\Users\Dell\source\repos\devision\devision\obj\Debug\net6.0\devision.genruntimeconfig.cache
+C:\Users\Dell\source\repos\devision\devision\obj\Debug\net6.0\ref\devision.dll

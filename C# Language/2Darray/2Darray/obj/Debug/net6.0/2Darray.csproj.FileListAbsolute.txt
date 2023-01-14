@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\2Darray\2Darray\obj\Debug\net6.0\2Darray.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\2Darray\2Darray\obj\Debug\net6.0\2Darray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\2Darray\2Darray\obj\Debug\net6.0\2Darray.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\2Darray\2Darray\obj\Debug\net6.0\2Darray.AssemblyInfo.cs
+C:\Users\Dell\source\repos\2Darray\2Darray\obj\Debug\net6.0\2Darray.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\2Darray\2Darray\bin\Debug\net6.0\2Darray.exe
+C:\Users\Dell\source\repos\2Darray\2Darray\bin\Debug\net6.0\2Darray.deps.json
+C:\Users\Dell\source\repos\2Darray\2Darray\bin\Debug\net6.0\2Darray.runtimeconfig.json
+C:\Users\Dell\source\repos\2Darray\2Darray\bin\Debug\net6.0\2Darray.dll
+C:\Users\Dell\source\repos\2Darray\2Darray\bin\Debug\net6.0\2Darray.pdb
+C:\Users\Dell\source\repos\2Darray\2Darray\obj\Debug\net6.0\2Darray.dll
+C:\Users\Dell\source\repos\2Darray\2Darray\obj\Debug\net6.0\refint\2Darray.dll
+C:\Users\Dell\source\repos\2Darray\2Darray\obj\Debug\net6.0\2Darray.pdb
+C:\Users\Dell\source\repos\2Darray\2Darray\obj\Debug\net6.0\2Darray.genruntimeconfig.cache
+C:\Users\Dell\source\repos\2Darray\2Darray\obj\Debug\net6.0\ref\2Darray.dll

@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\multitasking\multitasking\bin\Debug\net6.0\multitasking.exe
+C:\Users\Dell\source\repos\multitasking\multitasking\bin\Debug\net6.0\multitasking.deps.json
+C:\Users\Dell\source\repos\multitasking\multitasking\bin\Debug\net6.0\multitasking.runtimeconfig.json
+C:\Users\Dell\source\repos\multitasking\multitasking\bin\Debug\net6.0\multitasking.dll
+C:\Users\Dell\source\repos\multitasking\multitasking\bin\Debug\net6.0\multitasking.pdb
+C:\Users\Dell\source\repos\multitasking\multitasking\obj\Debug\net6.0\multitasking.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\multitasking\multitasking\obj\Debug\net6.0\multitasking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\multitasking\multitasking\obj\Debug\net6.0\multitasking.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\multitasking\multitasking\obj\Debug\net6.0\multitasking.AssemblyInfo.cs
+C:\Users\Dell\source\repos\multitasking\multitasking\obj\Debug\net6.0\multitasking.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\multitasking\multitasking\obj\Debug\net6.0\multitasking.dll
+C:\Users\Dell\source\repos\multitasking\multitasking\obj\Debug\net6.0\refint\multitasking.dll
+C:\Users\Dell\source\repos\multitasking\multitasking\obj\Debug\net6.0\multitasking.pdb
+C:\Users\Dell\source\repos\multitasking\multitasking\obj\Debug\net6.0\multitasking.genruntimeconfig.cache
+C:\Users\Dell\source\repos\multitasking\multitasking\obj\Debug\net6.0\ref\multitasking.dll

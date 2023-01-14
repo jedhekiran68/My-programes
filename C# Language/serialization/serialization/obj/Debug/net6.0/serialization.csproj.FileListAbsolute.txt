@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\serialization\serialization\obj\Debug\net6.0\serialization.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\serialization\serialization\obj\Debug\net6.0\serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\serialization\serialization\obj\Debug\net6.0\serialization.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\serialization\serialization\obj\Debug\net6.0\serialization.AssemblyInfo.cs
+C:\Users\Dell\source\repos\serialization\serialization\obj\Debug\net6.0\serialization.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\serialization\serialization\bin\Debug\net6.0\serialization.exe
+C:\Users\Dell\source\repos\serialization\serialization\bin\Debug\net6.0\serialization.deps.json
+C:\Users\Dell\source\repos\serialization\serialization\bin\Debug\net6.0\serialization.runtimeconfig.json
+C:\Users\Dell\source\repos\serialization\serialization\bin\Debug\net6.0\serialization.dll
+C:\Users\Dell\source\repos\serialization\serialization\bin\Debug\net6.0\serialization.pdb
+C:\Users\Dell\source\repos\serialization\serialization\obj\Debug\net6.0\serialization.dll
+C:\Users\Dell\source\repos\serialization\serialization\obj\Debug\net6.0\refint\serialization.dll
+C:\Users\Dell\source\repos\serialization\serialization\obj\Debug\net6.0\serialization.pdb
+C:\Users\Dell\source\repos\serialization\serialization\obj\Debug\net6.0\serialization.genruntimeconfig.cache
+C:\Users\Dell\source\repos\serialization\serialization\obj\Debug\net6.0\ref\serialization.dll

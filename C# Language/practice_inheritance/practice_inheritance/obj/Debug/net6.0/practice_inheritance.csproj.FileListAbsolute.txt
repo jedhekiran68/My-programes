@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\practice_inheritance\practice_inheritance\bin\Debug\net6.0\practice_inheritance.exe
+C:\Users\Dell\source\repos\practice_inheritance\practice_inheritance\bin\Debug\net6.0\practice_inheritance.deps.json
+C:\Users\Dell\source\repos\practice_inheritance\practice_inheritance\bin\Debug\net6.0\practice_inheritance.runtimeconfig.json
+C:\Users\Dell\source\repos\practice_inheritance\practice_inheritance\bin\Debug\net6.0\practice_inheritance.dll
+C:\Users\Dell\source\repos\practice_inheritance\practice_inheritance\bin\Debug\net6.0\practice_inheritance.pdb
+C:\Users\Dell\source\repos\practice_inheritance\practice_inheritance\obj\Debug\net6.0\practice_inheritance.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\practice_inheritance\practice_inheritance\obj\Debug\net6.0\practice_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\practice_inheritance\practice_inheritance\obj\Debug\net6.0\practice_inheritance.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\practice_inheritance\practice_inheritance\obj\Debug\net6.0\practice_inheritance.AssemblyInfo.cs
+C:\Users\Dell\source\repos\practice_inheritance\practice_inheritance\obj\Debug\net6.0\practice_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\practice_inheritance\practice_inheritance\obj\Debug\net6.0\practice_inheritance.dll
+C:\Users\Dell\source\repos\practice_inheritance\practice_inheritance\obj\Debug\net6.0\refint\practice_inheritance.dll
+C:\Users\Dell\source\repos\practice_inheritance\practice_inheritance\obj\Debug\net6.0\practice_inheritance.pdb
+C:\Users\Dell\source\repos\practice_inheritance\practice_inheritance\obj\Debug\net6.0\practice_inheritance.genruntimeconfig.cache
+C:\Users\Dell\source\repos\practice_inheritance\practice_inheritance\obj\Debug\net6.0\ref\practice_inheritance.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "+veor-ve", "+veor-ve\+veor-ve.csproj", "{2EA27C6A-E125-4062-B15A-2862D50C1188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA27C6A-E125-4062-B15A-2862D50C1188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA27C6A-E125-4062-B15A-2862D50C1188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA27C6A-E125-4062-B15A-2862D50C1188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA27C6A-E125-4062-B15A-2862D50C1188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B9D27B5-6049-4D20-A26B-77DBECD3D0C6}
+	EndGlobalSection
+EndGlobal

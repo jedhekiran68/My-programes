@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\multth\multth\bin\Debug\net6.0\multth.exe
+C:\Users\Dell\source\repos\multth\multth\bin\Debug\net6.0\multth.deps.json
+C:\Users\Dell\source\repos\multth\multth\bin\Debug\net6.0\multth.runtimeconfig.json
+C:\Users\Dell\source\repos\multth\multth\bin\Debug\net6.0\multth.dll
+C:\Users\Dell\source\repos\multth\multth\bin\Debug\net6.0\multth.pdb
+C:\Users\Dell\source\repos\multth\multth\obj\Debug\net6.0\multth.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\multth\multth\obj\Debug\net6.0\multth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\multth\multth\obj\Debug\net6.0\multth.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\multth\multth\obj\Debug\net6.0\multth.AssemblyInfo.cs
+C:\Users\Dell\source\repos\multth\multth\obj\Debug\net6.0\multth.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\multth\multth\obj\Debug\net6.0\multth.dll
+C:\Users\Dell\source\repos\multth\multth\obj\Debug\net6.0\refint\multth.dll
+C:\Users\Dell\source\repos\multth\multth\obj\Debug\net6.0\multth.pdb
+C:\Users\Dell\source\repos\multth\multth\obj\Debug\net6.0\multth.genruntimeconfig.cache
+C:\Users\Dell\source\repos\multth\multth\obj\Debug\net6.0\ref\multth.dll

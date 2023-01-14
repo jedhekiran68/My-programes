@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\practice_single_inh\practice_single_inh\bin\Debug\net6.0\practice_single_inh.exe
+C:\Users\Dell\source\repos\practice_single_inh\practice_single_inh\bin\Debug\net6.0\practice_single_inh.deps.json
+C:\Users\Dell\source\repos\practice_single_inh\practice_single_inh\bin\Debug\net6.0\practice_single_inh.runtimeconfig.json
+C:\Users\Dell\source\repos\practice_single_inh\practice_single_inh\bin\Debug\net6.0\practice_single_inh.dll
+C:\Users\Dell\source\repos\practice_single_inh\practice_single_inh\bin\Debug\net6.0\practice_single_inh.pdb
+C:\Users\Dell\source\repos\practice_single_inh\practice_single_inh\obj\Debug\net6.0\practice_single_inh.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\practice_single_inh\practice_single_inh\obj\Debug\net6.0\practice_single_inh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\practice_single_inh\practice_single_inh\obj\Debug\net6.0\practice_single_inh.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\practice_single_inh\practice_single_inh\obj\Debug\net6.0\practice_single_inh.AssemblyInfo.cs
+C:\Users\Dell\source\repos\practice_single_inh\practice_single_inh\obj\Debug\net6.0\practice_single_inh.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\practice_single_inh\practice_single_inh\obj\Debug\net6.0\practice_single_inh.dll
+C:\Users\Dell\source\repos\practice_single_inh\practice_single_inh\obj\Debug\net6.0\refint\practice_single_inh.dll
+C:\Users\Dell\source\repos\practice_single_inh\practice_single_inh\obj\Debug\net6.0\practice_single_inh.pdb
+C:\Users\Dell\source\repos\practice_single_inh\practice_single_inh\obj\Debug\net6.0\practice_single_inh.genruntimeconfig.cache
+C:\Users\Dell\source\repos\practice_single_inh\practice_single_inh\obj\Debug\net6.0\ref\practice_single_inh.dll

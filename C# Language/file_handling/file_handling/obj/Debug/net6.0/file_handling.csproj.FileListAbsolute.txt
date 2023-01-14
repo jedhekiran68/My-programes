@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\file_handling\file_handling\bin\Debug\net6.0\file_handling.exe
+C:\Users\Dell\source\repos\file_handling\file_handling\bin\Debug\net6.0\file_handling.deps.json
+C:\Users\Dell\source\repos\file_handling\file_handling\bin\Debug\net6.0\file_handling.runtimeconfig.json
+C:\Users\Dell\source\repos\file_handling\file_handling\bin\Debug\net6.0\file_handling.dll
+C:\Users\Dell\source\repos\file_handling\file_handling\bin\Debug\net6.0\file_handling.pdb
+C:\Users\Dell\source\repos\file_handling\file_handling\obj\Debug\net6.0\file_handling.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\file_handling\file_handling\obj\Debug\net6.0\file_handling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\file_handling\file_handling\obj\Debug\net6.0\file_handling.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\file_handling\file_handling\obj\Debug\net6.0\file_handling.AssemblyInfo.cs
+C:\Users\Dell\source\repos\file_handling\file_handling\obj\Debug\net6.0\file_handling.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\file_handling\file_handling\obj\Debug\net6.0\file_handling.dll
+C:\Users\Dell\source\repos\file_handling\file_handling\obj\Debug\net6.0\refint\file_handling.dll
+C:\Users\Dell\source\repos\file_handling\file_handling\obj\Debug\net6.0\file_handling.pdb
+C:\Users\Dell\source\repos\file_handling\file_handling\obj\Debug\net6.0\file_handling.genruntimeconfig.cache
+C:\Users\Dell\source\repos\file_handling\file_handling\obj\Debug\net6.0\ref\file_handling.dll

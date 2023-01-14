@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\text_writer\text_writer\bin\Debug\net6.0\text_writer.exe
+C:\Users\Dell\source\repos\text_writer\text_writer\bin\Debug\net6.0\text_writer.deps.json
+C:\Users\Dell\source\repos\text_writer\text_writer\bin\Debug\net6.0\text_writer.runtimeconfig.json
+C:\Users\Dell\source\repos\text_writer\text_writer\bin\Debug\net6.0\text_writer.dll
+C:\Users\Dell\source\repos\text_writer\text_writer\bin\Debug\net6.0\text_writer.pdb
+C:\Users\Dell\source\repos\text_writer\text_writer\obj\Debug\net6.0\text_writer.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\text_writer\text_writer\obj\Debug\net6.0\text_writer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\text_writer\text_writer\obj\Debug\net6.0\text_writer.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\text_writer\text_writer\obj\Debug\net6.0\text_writer.AssemblyInfo.cs
+C:\Users\Dell\source\repos\text_writer\text_writer\obj\Debug\net6.0\text_writer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\text_writer\text_writer\obj\Debug\net6.0\text_writer.dll
+C:\Users\Dell\source\repos\text_writer\text_writer\obj\Debug\net6.0\refint\text_writer.dll
+C:\Users\Dell\source\repos\text_writer\text_writer\obj\Debug\net6.0\text_writer.pdb
+C:\Users\Dell\source\repos\text_writer\text_writer\obj\Debug\net6.0\text_writer.genruntimeconfig.cache
+C:\Users\Dell\source\repos\text_writer\text_writer\obj\Debug\net6.0\ref\text_writer.dll

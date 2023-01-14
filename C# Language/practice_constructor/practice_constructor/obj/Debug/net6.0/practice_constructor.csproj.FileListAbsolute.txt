@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\practice_constructor\practice_constructor\bin\Debug\net6.0\practice_constructor.exe
+C:\Users\Dell\source\repos\practice_constructor\practice_constructor\bin\Debug\net6.0\practice_constructor.deps.json
+C:\Users\Dell\source\repos\practice_constructor\practice_constructor\bin\Debug\net6.0\practice_constructor.runtimeconfig.json
+C:\Users\Dell\source\repos\practice_constructor\practice_constructor\bin\Debug\net6.0\practice_constructor.dll
+C:\Users\Dell\source\repos\practice_constructor\practice_constructor\bin\Debug\net6.0\practice_constructor.pdb
+C:\Users\Dell\source\repos\practice_constructor\practice_constructor\obj\Debug\net6.0\practice_constructor.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\practice_constructor\practice_constructor\obj\Debug\net6.0\practice_constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\practice_constructor\practice_constructor\obj\Debug\net6.0\practice_constructor.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\practice_constructor\practice_constructor\obj\Debug\net6.0\practice_constructor.AssemblyInfo.cs
+C:\Users\Dell\source\repos\practice_constructor\practice_constructor\obj\Debug\net6.0\practice_constructor.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\practice_constructor\practice_constructor\obj\Debug\net6.0\practice_constructor.dll
+C:\Users\Dell\source\repos\practice_constructor\practice_constructor\obj\Debug\net6.0\refint\practice_constructor.dll
+C:\Users\Dell\source\repos\practice_constructor\practice_constructor\obj\Debug\net6.0\practice_constructor.pdb
+C:\Users\Dell\source\repos\practice_constructor\practice_constructor\obj\Debug\net6.0\practice_constructor.genruntimeconfig.cache
+C:\Users\Dell\source\repos\practice_constructor\practice_constructor\obj\Debug\net6.0\ref\practice_constructor.dll

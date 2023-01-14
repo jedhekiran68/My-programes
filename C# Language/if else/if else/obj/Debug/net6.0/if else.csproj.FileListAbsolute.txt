@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\if else\if else\obj\Debug\net6.0\if else.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\if else\if else\obj\Debug\net6.0\if else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\if else\if else\obj\Debug\net6.0\if else.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\if else\if else\obj\Debug\net6.0\if else.AssemblyInfo.cs
+C:\Users\Dell\source\repos\if else\if else\obj\Debug\net6.0\if else.csproj.CoreCompileInputs.cache

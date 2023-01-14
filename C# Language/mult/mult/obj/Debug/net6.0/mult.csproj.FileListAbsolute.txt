@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\mult\mult\obj\Debug\net6.0\mult.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\mult\mult\obj\Debug\net6.0\mult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\mult\mult\obj\Debug\net6.0\mult.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\mult\mult\obj\Debug\net6.0\mult.AssemblyInfo.cs
+C:\Users\Dell\source\repos\mult\mult\obj\Debug\net6.0\mult.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\mult\mult\bin\Debug\net6.0\mult.exe
+C:\Users\Dell\source\repos\mult\mult\bin\Debug\net6.0\mult.deps.json
+C:\Users\Dell\source\repos\mult\mult\bin\Debug\net6.0\mult.runtimeconfig.json
+C:\Users\Dell\source\repos\mult\mult\bin\Debug\net6.0\mult.dll
+C:\Users\Dell\source\repos\mult\mult\bin\Debug\net6.0\mult.pdb
+C:\Users\Dell\source\repos\mult\mult\obj\Debug\net6.0\mult.dll
+C:\Users\Dell\source\repos\mult\mult\obj\Debug\net6.0\refint\mult.dll
+C:\Users\Dell\source\repos\mult\mult\obj\Debug\net6.0\mult.pdb
+C:\Users\Dell\source\repos\mult\mult\obj\Debug\net6.0\mult.genruntimeconfig.cache
+C:\Users\Dell\source\repos\mult\mult\obj\Debug\net6.0\ref\mult.dll

@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\practice_abstraction\practice_abstraction\obj\Debug\net6.0\practice_abstraction.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\practice_abstraction\practice_abstraction\obj\Debug\net6.0\practice_abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\practice_abstraction\practice_abstraction\obj\Debug\net6.0\practice_abstraction.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\practice_abstraction\practice_abstraction\obj\Debug\net6.0\practice_abstraction.AssemblyInfo.cs
+C:\Users\Dell\source\repos\practice_abstraction\practice_abstraction\obj\Debug\net6.0\practice_abstraction.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\practice_abstraction\practice_abstraction\bin\Debug\net6.0\practice_abstraction.exe
+C:\Users\Dell\source\repos\practice_abstraction\practice_abstraction\bin\Debug\net6.0\practice_abstraction.deps.json
+C:\Users\Dell\source\repos\practice_abstraction\practice_abstraction\bin\Debug\net6.0\practice_abstraction.runtimeconfig.json
+C:\Users\Dell\source\repos\practice_abstraction\practice_abstraction\bin\Debug\net6.0\practice_abstraction.dll
+C:\Users\Dell\source\repos\practice_abstraction\practice_abstraction\bin\Debug\net6.0\practice_abstraction.pdb
+C:\Users\Dell\source\repos\practice_abstraction\practice_abstraction\obj\Debug\net6.0\practice_abstraction.dll
+C:\Users\Dell\source\repos\practice_abstraction\practice_abstraction\obj\Debug\net6.0\refint\practice_abstraction.dll
+C:\Users\Dell\source\repos\practice_abstraction\practice_abstraction\obj\Debug\net6.0\practice_abstraction.pdb
+C:\Users\Dell\source\repos\practice_abstraction\practice_abstraction\obj\Debug\net6.0\practice_abstraction.genruntimeconfig.cache
+C:\Users\Dell\source\repos\practice_abstraction\practice_abstraction\obj\Debug\net6.0\ref\practice_abstraction.dll

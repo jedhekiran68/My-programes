@@ -1,0 +1,55 @@
+<html>
+<head>
+<title> Dom_task</title>
+
+</head>
+<body>
+
+<form action="abc.java">
+    <input type="text" placeholder="first name" pattern="[A-Za-z]{3,12}"  required>
+	<input type="text" placeholder="last name" pattern="[A-Za-z]{3,10}" required><br><br>
+	<input type="email" placeholder="enter email" pattern="[A-Za-z0-9@-.]{8,15}"  required><br><br>
+	<input type="text" placeholder="contact no." pattern="[0-9]{10}"  required id="jk3">
+	<input type="text" placeholder="alternate contact no." pattern="[0-9]{10}"  required id="jk4"><br><br>
+    <input type="text" placeholder="password ." pattern="[A-Za-z0-9@-.&#]{8}"  required id="jk1">
+	<input type="text" placeholder="confirm password ." pattern="[A-Za-z0-9@-.&#]{8}"  required id="jk2"><br><br>
+	<input type="text" placeholder="enter full address" pattern="[A-Za-z0-9@-.]{8,100}"  required><br><br>
+
+	
+	<button type="submit" onclick="info()">submit</button>
+
+<script>
+function info()
+{
+var p=document.getElementById("jk1").value;
+var c=document.getElementById("jk2").value;
+
+if(p==c)
+{
+alert("password matched")
+}
+else
+{
+alert("password not matched")
+}
+}
+
+function info()
+{
+var p=document.getElementById("jk3").value;
+var c=document.getElementById("jk4").value;
+
+if(p==c)
+{
+  alert("enter another mobile no")
+}
+else
+{
+alert("mobile no verified")
+}
+}
+
+</form>
+
+</body>
+</html>

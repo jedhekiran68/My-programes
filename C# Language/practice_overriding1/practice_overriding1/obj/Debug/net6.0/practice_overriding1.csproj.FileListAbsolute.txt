@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\practice_overriding1\practice_overriding1\bin\Debug\net6.0\practice_overriding1.exe
+C:\Users\Dell\source\repos\practice_overriding1\practice_overriding1\bin\Debug\net6.0\practice_overriding1.deps.json
+C:\Users\Dell\source\repos\practice_overriding1\practice_overriding1\bin\Debug\net6.0\practice_overriding1.runtimeconfig.json
+C:\Users\Dell\source\repos\practice_overriding1\practice_overriding1\bin\Debug\net6.0\practice_overriding1.dll
+C:\Users\Dell\source\repos\practice_overriding1\practice_overriding1\bin\Debug\net6.0\practice_overriding1.pdb
+C:\Users\Dell\source\repos\practice_overriding1\practice_overriding1\obj\Debug\net6.0\practice_overriding1.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\practice_overriding1\practice_overriding1\obj\Debug\net6.0\practice_overriding1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\practice_overriding1\practice_overriding1\obj\Debug\net6.0\practice_overriding1.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\practice_overriding1\practice_overriding1\obj\Debug\net6.0\practice_overriding1.AssemblyInfo.cs
+C:\Users\Dell\source\repos\practice_overriding1\practice_overriding1\obj\Debug\net6.0\practice_overriding1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\practice_overriding1\practice_overriding1\obj\Debug\net6.0\practice_overriding1.dll
+C:\Users\Dell\source\repos\practice_overriding1\practice_overriding1\obj\Debug\net6.0\refint\practice_overriding1.dll
+C:\Users\Dell\source\repos\practice_overriding1\practice_overriding1\obj\Debug\net6.0\practice_overriding1.pdb
+C:\Users\Dell\source\repos\practice_overriding1\practice_overriding1\obj\Debug\net6.0\practice_overriding1.genruntimeconfig.cache
+C:\Users\Dell\source\repos\practice_overriding1\practice_overriding1\obj\Debug\net6.0\ref\practice_overriding1.dll

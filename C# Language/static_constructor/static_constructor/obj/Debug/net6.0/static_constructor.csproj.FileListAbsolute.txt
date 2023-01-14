@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\static_constructor\static_constructor\bin\Debug\net6.0\static_constructor.exe
+C:\Users\Dell\source\repos\static_constructor\static_constructor\bin\Debug\net6.0\static_constructor.deps.json
+C:\Users\Dell\source\repos\static_constructor\static_constructor\bin\Debug\net6.0\static_constructor.runtimeconfig.json
+C:\Users\Dell\source\repos\static_constructor\static_constructor\bin\Debug\net6.0\static_constructor.dll
+C:\Users\Dell\source\repos\static_constructor\static_constructor\bin\Debug\net6.0\static_constructor.pdb
+C:\Users\Dell\source\repos\static_constructor\static_constructor\obj\Debug\net6.0\static_constructor.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\static_constructor\static_constructor\obj\Debug\net6.0\static_constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\static_constructor\static_constructor\obj\Debug\net6.0\static_constructor.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\static_constructor\static_constructor\obj\Debug\net6.0\static_constructor.AssemblyInfo.cs
+C:\Users\Dell\source\repos\static_constructor\static_constructor\obj\Debug\net6.0\static_constructor.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\static_constructor\static_constructor\obj\Debug\net6.0\static_constructor.dll
+C:\Users\Dell\source\repos\static_constructor\static_constructor\obj\Debug\net6.0\refint\static_constructor.dll
+C:\Users\Dell\source\repos\static_constructor\static_constructor\obj\Debug\net6.0\static_constructor.pdb
+C:\Users\Dell\source\repos\static_constructor\static_constructor\obj\Debug\net6.0\static_constructor.genruntimeconfig.cache
+C:\Users\Dell\source\repos\static_constructor\static_constructor\obj\Debug\net6.0\ref\static_constructor.dll

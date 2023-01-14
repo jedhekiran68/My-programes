@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\task2d\task2d\bin\Debug\net6.0\task2d.exe
+C:\Users\Dell\source\repos\task2d\task2d\bin\Debug\net6.0\task2d.deps.json
+C:\Users\Dell\source\repos\task2d\task2d\bin\Debug\net6.0\task2d.runtimeconfig.json
+C:\Users\Dell\source\repos\task2d\task2d\bin\Debug\net6.0\task2d.dll
+C:\Users\Dell\source\repos\task2d\task2d\bin\Debug\net6.0\task2d.pdb
+C:\Users\Dell\source\repos\task2d\task2d\obj\Debug\net6.0\task2d.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\task2d\task2d\obj\Debug\net6.0\task2d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\task2d\task2d\obj\Debug\net6.0\task2d.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\task2d\task2d\obj\Debug\net6.0\task2d.AssemblyInfo.cs
+C:\Users\Dell\source\repos\task2d\task2d\obj\Debug\net6.0\task2d.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\task2d\task2d\obj\Debug\net6.0\task2d.dll
+C:\Users\Dell\source\repos\task2d\task2d\obj\Debug\net6.0\refint\task2d.dll
+C:\Users\Dell\source\repos\task2d\task2d\obj\Debug\net6.0\task2d.pdb
+C:\Users\Dell\source\repos\task2d\task2d\obj\Debug\net6.0\task2d.genruntimeconfig.cache
+C:\Users\Dell\source\repos\task2d\task2d\obj\Debug\net6.0\ref\task2d.dll

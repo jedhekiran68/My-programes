@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\+veor-ve\+veor-ve\obj\Debug\net6.0\+veor-ve.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\+veor-ve\+veor-ve\obj\Debug\net6.0\+veor-ve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\+veor-ve\+veor-ve\obj\Debug\net6.0\+veor-ve.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\+veor-ve\+veor-ve\obj\Debug\net6.0\+veor-ve.AssemblyInfo.cs
+C:\Users\Dell\source\repos\+veor-ve\+veor-ve\obj\Debug\net6.0\+veor-ve.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\+veor-ve\+veor-ve\bin\Debug\net6.0\+veor-ve.exe
+C:\Users\Dell\source\repos\+veor-ve\+veor-ve\bin\Debug\net6.0\+veor-ve.deps.json
+C:\Users\Dell\source\repos\+veor-ve\+veor-ve\bin\Debug\net6.0\+veor-ve.runtimeconfig.json
+C:\Users\Dell\source\repos\+veor-ve\+veor-ve\bin\Debug\net6.0\+veor-ve.dll
+C:\Users\Dell\source\repos\+veor-ve\+veor-ve\bin\Debug\net6.0\+veor-ve.pdb
+C:\Users\Dell\source\repos\+veor-ve\+veor-ve\obj\Debug\net6.0\+veor-ve.dll
+C:\Users\Dell\source\repos\+veor-ve\+veor-ve\obj\Debug\net6.0\refint\+veor-ve.dll
+C:\Users\Dell\source\repos\+veor-ve\+veor-ve\obj\Debug\net6.0\+veor-ve.pdb
+C:\Users\Dell\source\repos\+veor-ve\+veor-ve\obj\Debug\net6.0\+veor-ve.genruntimeconfig.cache
+C:\Users\Dell\source\repos\+veor-ve\+veor-ve\obj\Debug\net6.0\ref\+veor-ve.dll

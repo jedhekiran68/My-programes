@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "practice_abstraction/1.0.0": {
+        "runtime": {
+          "practice_abstraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practice_abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

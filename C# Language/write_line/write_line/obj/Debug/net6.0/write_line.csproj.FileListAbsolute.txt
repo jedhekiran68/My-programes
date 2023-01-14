@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\write_line\write_line\obj\Debug\net6.0\write_line.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\write_line\write_line\obj\Debug\net6.0\write_line.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\write_line\write_line\obj\Debug\net6.0\write_line.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\write_line\write_line\obj\Debug\net6.0\write_line.AssemblyInfo.cs
+C:\Users\Dell\source\repos\write_line\write_line\obj\Debug\net6.0\write_line.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\write_line\write_line\bin\Debug\net6.0\write_line.exe
+C:\Users\Dell\source\repos\write_line\write_line\bin\Debug\net6.0\write_line.deps.json
+C:\Users\Dell\source\repos\write_line\write_line\bin\Debug\net6.0\write_line.runtimeconfig.json
+C:\Users\Dell\source\repos\write_line\write_line\bin\Debug\net6.0\write_line.dll
+C:\Users\Dell\source\repos\write_line\write_line\bin\Debug\net6.0\write_line.pdb
+C:\Users\Dell\source\repos\write_line\write_line\obj\Debug\net6.0\write_line.dll
+C:\Users\Dell\source\repos\write_line\write_line\obj\Debug\net6.0\refint\write_line.dll
+C:\Users\Dell\source\repos\write_line\write_line\obj\Debug\net6.0\write_line.pdb
+C:\Users\Dell\source\repos\write_line\write_line\obj\Debug\net6.0\write_line.genruntimeconfig.cache
+C:\Users\Dell\source\repos\write_line\write_line\obj\Debug\net6.0\ref\write_line.dll

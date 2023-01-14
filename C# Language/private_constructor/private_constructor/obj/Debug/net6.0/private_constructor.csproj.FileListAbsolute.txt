@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\private_constructor\private_constructor\obj\Debug\net6.0\private_constructor.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\private_constructor\private_constructor\obj\Debug\net6.0\private_constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\private_constructor\private_constructor\obj\Debug\net6.0\private_constructor.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\private_constructor\private_constructor\obj\Debug\net6.0\private_constructor.AssemblyInfo.cs
+C:\Users\Dell\source\repos\private_constructor\private_constructor\obj\Debug\net6.0\private_constructor.csproj.CoreCompileInputs.cache

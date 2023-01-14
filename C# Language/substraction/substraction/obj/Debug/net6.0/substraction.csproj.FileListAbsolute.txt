@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\substraction\substraction\bin\Debug\net6.0\substraction.exe
+C:\Users\Dell\source\repos\substraction\substraction\bin\Debug\net6.0\substraction.deps.json
+C:\Users\Dell\source\repos\substraction\substraction\bin\Debug\net6.0\substraction.runtimeconfig.json
+C:\Users\Dell\source\repos\substraction\substraction\bin\Debug\net6.0\substraction.dll
+C:\Users\Dell\source\repos\substraction\substraction\bin\Debug\net6.0\substraction.pdb
+C:\Users\Dell\source\repos\substraction\substraction\obj\Debug\net6.0\substraction.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\substraction\substraction\obj\Debug\net6.0\substraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\substraction\substraction\obj\Debug\net6.0\substraction.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\substraction\substraction\obj\Debug\net6.0\substraction.AssemblyInfo.cs
+C:\Users\Dell\source\repos\substraction\substraction\obj\Debug\net6.0\substraction.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\substraction\substraction\obj\Debug\net6.0\substraction.dll
+C:\Users\Dell\source\repos\substraction\substraction\obj\Debug\net6.0\refint\substraction.dll
+C:\Users\Dell\source\repos\substraction\substraction\obj\Debug\net6.0\substraction.pdb
+C:\Users\Dell\source\repos\substraction\substraction\obj\Debug\net6.0\substraction.genruntimeconfig.cache
+C:\Users\Dell\source\repos\substraction\substraction\obj\Debug\net6.0\ref\substraction.dll

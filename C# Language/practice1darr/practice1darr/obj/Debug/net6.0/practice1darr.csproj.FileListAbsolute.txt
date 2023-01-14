@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\practice1darr\practice1darr\bin\Debug\net6.0\practice1darr.exe
+C:\Users\Dell\source\repos\practice1darr\practice1darr\bin\Debug\net6.0\practice1darr.deps.json
+C:\Users\Dell\source\repos\practice1darr\practice1darr\bin\Debug\net6.0\practice1darr.runtimeconfig.json
+C:\Users\Dell\source\repos\practice1darr\practice1darr\bin\Debug\net6.0\practice1darr.dll
+C:\Users\Dell\source\repos\practice1darr\practice1darr\bin\Debug\net6.0\practice1darr.pdb
+C:\Users\Dell\source\repos\practice1darr\practice1darr\obj\Debug\net6.0\practice1darr.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\practice1darr\practice1darr\obj\Debug\net6.0\practice1darr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\practice1darr\practice1darr\obj\Debug\net6.0\practice1darr.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\practice1darr\practice1darr\obj\Debug\net6.0\practice1darr.AssemblyInfo.cs
+C:\Users\Dell\source\repos\practice1darr\practice1darr\obj\Debug\net6.0\practice1darr.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\practice1darr\practice1darr\obj\Debug\net6.0\practice1darr.dll
+C:\Users\Dell\source\repos\practice1darr\practice1darr\obj\Debug\net6.0\refint\practice1darr.dll
+C:\Users\Dell\source\repos\practice1darr\practice1darr\obj\Debug\net6.0\practice1darr.pdb
+C:\Users\Dell\source\repos\practice1darr\practice1darr\obj\Debug\net6.0\practice1darr.genruntimeconfig.cache
+C:\Users\Dell\source\repos\practice1darr\practice1darr\obj\Debug\net6.0\ref\practice1darr.dll

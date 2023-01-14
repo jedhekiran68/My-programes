@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>overlay </title>
+  <style>
+    img {
+	width:300px; height:300px
+	}
+	.container{
+	position:relative; width:25px; height:auto;
+	}
+  
+  .overlay{
+  position:absolute;transition:0.5s ease; height:300px; width:300px; top:0; background-color:blue; opacity:0;
+  }
+  
+  .container:hover.overlay{
+  opacity:0.9;
+  }
+  
+</style>
+
+</head>
+
+<body>
+<div class="container">
+<img src="photo.jpg">
+<div class="overlay">
+</div></div>
+
+ </body>
+ 
+</html>

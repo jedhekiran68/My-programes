@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "practice1Darr/1.0.0": {
+        "runtime": {
+          "practice1Darr.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "practice1Darr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

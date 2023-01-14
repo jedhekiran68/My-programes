@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\user_getvalue\user_getvalue\bin\Debug\net6.0\user_getvalue.exe
+C:\Users\Dell\source\repos\user_getvalue\user_getvalue\bin\Debug\net6.0\user_getvalue.deps.json
+C:\Users\Dell\source\repos\user_getvalue\user_getvalue\bin\Debug\net6.0\user_getvalue.runtimeconfig.json
+C:\Users\Dell\source\repos\user_getvalue\user_getvalue\bin\Debug\net6.0\user_getvalue.dll
+C:\Users\Dell\source\repos\user_getvalue\user_getvalue\bin\Debug\net6.0\user_getvalue.pdb
+C:\Users\Dell\source\repos\user_getvalue\user_getvalue\obj\Debug\net6.0\user_getvalue.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\user_getvalue\user_getvalue\obj\Debug\net6.0\user_getvalue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\user_getvalue\user_getvalue\obj\Debug\net6.0\user_getvalue.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\user_getvalue\user_getvalue\obj\Debug\net6.0\user_getvalue.AssemblyInfo.cs
+C:\Users\Dell\source\repos\user_getvalue\user_getvalue\obj\Debug\net6.0\user_getvalue.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\user_getvalue\user_getvalue\obj\Debug\net6.0\user_getvalue.dll
+C:\Users\Dell\source\repos\user_getvalue\user_getvalue\obj\Debug\net6.0\refint\user_getvalue.dll
+C:\Users\Dell\source\repos\user_getvalue\user_getvalue\obj\Debug\net6.0\user_getvalue.pdb
+C:\Users\Dell\source\repos\user_getvalue\user_getvalue\obj\Debug\net6.0\user_getvalue.genruntimeconfig.cache
+C:\Users\Dell\source\repos\user_getvalue\user_getvalue\obj\Debug\net6.0\ref\user_getvalue.dll

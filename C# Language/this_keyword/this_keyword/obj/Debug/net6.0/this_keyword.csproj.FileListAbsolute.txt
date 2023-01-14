@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\this_keyword\this_keyword\bin\Debug\net6.0\this_keyword.exe
+C:\Users\Dell\source\repos\this_keyword\this_keyword\bin\Debug\net6.0\this_keyword.deps.json
+C:\Users\Dell\source\repos\this_keyword\this_keyword\bin\Debug\net6.0\this_keyword.runtimeconfig.json
+C:\Users\Dell\source\repos\this_keyword\this_keyword\bin\Debug\net6.0\this_keyword.dll
+C:\Users\Dell\source\repos\this_keyword\this_keyword\bin\Debug\net6.0\this_keyword.pdb
+C:\Users\Dell\source\repos\this_keyword\this_keyword\obj\Debug\net6.0\this_keyword.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\this_keyword\this_keyword\obj\Debug\net6.0\this_keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\this_keyword\this_keyword\obj\Debug\net6.0\this_keyword.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\this_keyword\this_keyword\obj\Debug\net6.0\this_keyword.AssemblyInfo.cs
+C:\Users\Dell\source\repos\this_keyword\this_keyword\obj\Debug\net6.0\this_keyword.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\this_keyword\this_keyword\obj\Debug\net6.0\this_keyword.dll
+C:\Users\Dell\source\repos\this_keyword\this_keyword\obj\Debug\net6.0\refint\this_keyword.dll
+C:\Users\Dell\source\repos\this_keyword\this_keyword\obj\Debug\net6.0\this_keyword.pdb
+C:\Users\Dell\source\repos\this_keyword\this_keyword\obj\Debug\net6.0\this_keyword.genruntimeconfig.cache
+C:\Users\Dell\source\repos\this_keyword\this_keyword\obj\Debug\net6.0\ref\this_keyword.dll

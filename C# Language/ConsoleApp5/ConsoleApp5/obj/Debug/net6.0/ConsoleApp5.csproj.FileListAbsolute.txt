@@ -1,0 +1,5 @@
+C:\Users\Dell\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ConsoleApp5\ConsoleApp5\obj\Debug\net6.0\ConsoleApp5.csproj.CoreCompileInputs.cache
