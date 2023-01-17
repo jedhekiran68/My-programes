@@ -1,0 +1,42 @@
+﻿.all
+{
+    
+    height:1000px;
+    width:1550px;
+}
+.header {
+    
+    background-color: darksalmon;
+}
+
+
+
+.jk {
+    color:blue;
+    background-color:darkorange;
+}
+.footer 
+{
+    padding-bottom:180px;
+    background-color:aqua;
+    height:100px;
+    width:1250px;
+}
+.X {
+    background-color:chartreuse;
+}
+ #j {
+
+    font-size:100px;
+}
+ #i
+{
+    height:500px;
+    width:800px;
+}
+#m {
+    height: 500px;
+    width: 800px;
+}
+
+
