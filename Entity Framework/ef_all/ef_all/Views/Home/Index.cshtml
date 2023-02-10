@@ -1,0 +1,65 @@
+﻿@model IEnumerable<ef_all.Models.family>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table" border="1px">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.fid)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.relation)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.position)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.mobile_no)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.job_location)
+        </th>
+        <th>
+            actions
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+<tr>
+    <td>
+        @Html.DisplayFor(modelItem => item.fid)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.name)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.relation)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.position)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.mobile_no)
+    </td>
+    <td>
+        @Html.DisplayFor(modelItem => item.job_location)
+    </td>
+    <td>
+        @Html.ActionLink("Edit", "Edit", new { id = item.fid }) |
+        @Html.ActionLink("Details", "Details", new { id = item.fid }) |
+        @Html.ActionLink("Delete", "Delete", new { id = item.fid })
+    </td>
+</tr>
+}
+
+</table>
