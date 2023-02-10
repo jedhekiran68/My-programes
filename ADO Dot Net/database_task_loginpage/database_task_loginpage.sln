@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "database_task_loginpage", "database_task_loginpage\database_task_loginpage.csproj", "{3E1BD6FA-F176-45F9-AEF7-99C8901F3939}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E1BD6FA-F176-45F9-AEF7-99C8901F3939}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E1BD6FA-F176-45F9-AEF7-99C8901F3939}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E1BD6FA-F176-45F9-AEF7-99C8901F3939}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E1BD6FA-F176-45F9-AEF7-99C8901F3939}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B1A84ED-20D7-4603-B91E-22FCF0955FDA}
+	EndGlobalSection
+EndGlobal
