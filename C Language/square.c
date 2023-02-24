@@ -2,10 +2,10 @@
 #include<string.h>
 int main()
 {
-	int a,square,*p;
+	int a,square;
 	printf("enter no:");
-	scanf("&d",&a);
-	p=&a;
+	scanf("%d",&a);
+
 	square=a*a;
-	printf("square:&d",square);
+	printf("square:%d",square);
 }

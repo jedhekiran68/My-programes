@@ -1,0 +1,19 @@
+﻿@model mvc_task_add_sub_mult_div.Models.mult
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+@using (Html.BeginForm("mult", "Home", FormMethod.Post))
+
+{
+    @Html.EditorFor(z => z.p)
+    @Html.EditorFor(z => z.q)
+
+    <input type="submit" value="multiplication" />
+
+    @Html.DisplayFor(z => z.r);
+}
+

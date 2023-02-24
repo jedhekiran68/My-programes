@@ -1,0 +1,19 @@
+﻿@model mvc_addition.Models.add
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+@using(Html.BeginForm("Index","Home","FormMethod.Post"))
+{
+@Html.EditorFor(p => p.a);
+@Html.EditorFor(p => p.b);
+@Html.EditorFor(p => p.c);
+@Html.EditorFor(p => p.d);
+@Html.EditorFor(p => p.e);
+
+<input type="submit" value="addition"/>
+
+@Html.DisplayFor(p=>p.f)
+}

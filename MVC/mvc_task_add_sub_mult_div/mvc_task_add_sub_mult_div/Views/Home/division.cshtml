@@ -1,0 +1,17 @@
+﻿@model mvc_task_add_sub_mult_div.Models.div
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+@using (Html.BeginForm("division", "Home", FormMethod.Post))
+{
+
+    @Html.EditorFor(p => p.m)
+    @Html.EditorFor(p => p.b)
+
+    <input type="submit" value="division" />
+
+    @Html.DisplayFor(p => p.a)
+}

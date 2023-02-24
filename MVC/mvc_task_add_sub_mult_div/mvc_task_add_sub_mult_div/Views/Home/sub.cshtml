@@ -1,0 +1,18 @@
+﻿@model mvc_task_add_sub_mult_div.Models.substraction
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+@using (Html.BeginForm("substraction", "Home", FormMethod.Post))
+
+{
+    @Html.EditorFor(p => p.x)
+    @Html.EditorFor(p => p.y)
+
+    <input type="submit" value="substracttion" />
+
+    @Html.DisplayFor(p => p.z);
+}

@@ -5,20 +5,21 @@ int main()
 	int sumeven=0,sumodd=0;
 	printf("enter no:",no);
 	scanf("%d",&no);
-	for(no=1;no<100;no++)
+	int i;
+	for(i=1;i<100;i++)
 	
 	{
-		 if(no%2!=0)
+		 if(i%2==0)
 		 {
-		 	printf("%d\n",no);
-		 	scanf("%d",&no);
-		 	sumodd=no+sumodd;
+		 	printf("%d\n",i);
+		 	scanf("%d",&i);
+		 	sumeven=i+sumeven;
 		 }
 		 else
 		 {
-		 	printf("%d",no);
-		 	scanf("%d",&no);
-		 	sumeven=no+sumeven;
+		 	printf("%d",i);
+		 	scanf("%d",&i);
+		 	sumodd=no+sumodd;
 		 }
 		 
 	}

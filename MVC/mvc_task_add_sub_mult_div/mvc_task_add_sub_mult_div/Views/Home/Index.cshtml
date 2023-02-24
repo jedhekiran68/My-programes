@@ -1,0 +1,18 @@
+﻿@model mvc_task_add_sub_mult_div.Models.addition
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+
+{
+    @Html.EditorFor(p => p.a)
+    @Html.EditorFor(p => p.b)
+
+    <input type="submit" value="addition" />
+
+    @Html.DisplayFor(p => p.c);
+}
